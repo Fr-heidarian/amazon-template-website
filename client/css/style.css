@@ -168,6 +168,10 @@ form div:nth-child(3) {
   text-decoration: none;
   font-size: 20px;
 }
+.categories article{
+  background-color: white;
+  padding: 30px;
+}
 
 #nav-main .nav-right {
   width: 25%;
